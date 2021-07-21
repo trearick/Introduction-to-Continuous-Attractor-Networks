@@ -1,4 +1,4 @@
-# Intro-to-Continuous-Attractor-Networks
+# Introduction to Continuous Attractor Networks
 
 Continuous Attractor Networks produce a single, reliable estimate from multiple, imprecise and unreliable measurements. 
 It is able, for example, to integrate measurements of altitude from barometers, accelerometers, and ultrasonic or laser 
